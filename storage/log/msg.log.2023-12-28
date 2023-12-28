@@ -1,0 +1,12 @@
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'oauthusers' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `oauthusers` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'oauthusers' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `oauthusers` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `oauthusers` AS `oauthuser` WHERE `oauthuser`.`email` = 'aadhavanvalli@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `oauthusers` AS `oauthuser` WHERE `oauthuser`.`email` = 'aadhavanvalli@gmail.com' AND `oauthuser`.`password` IS NULL LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'oauthusers' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `oauthusers` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'oauthusers' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `oauthusers` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `oauthusers` AS `oauthuser` WHERE `oauthuser`.`email` = 'aadhavanvalli@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `oauthusers` AS `oauthuser` WHERE `oauthuser`.`email` = 'aadhavanvalli@gmail.com' AND `oauthuser`.`password` IS NULL LIMIT 1;"}

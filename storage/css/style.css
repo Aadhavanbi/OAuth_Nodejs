@@ -1,0 +1,20 @@
+.bg-white.tm-block{
+    border-radius: 30px;
+}
+
+button{
+    width: 200px;
+}
+
+.mt-3, .my-3 {
+    margin-top: 2rem!important;
+}
+
+
+.col-12.text-center{
+    margin-top: -72px;
+}
+
+.bg-white.tm-block{
+    margin-top: -50px;
+}
